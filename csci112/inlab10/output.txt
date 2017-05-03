@@ -1,0 +1,21 @@
+---------------
+| 3 	 6.941000
+| Li 	 Lithium
+| solid
+| metallic
+| Found: 1817
+---------------
+---------------
+| 13 	 26.981539
+| Al 	 Aluminum
+| solid
+| metallic
+| Found: Ancient
+---------------
+---------------
+| 53 	 126.904472
+| I 	 Iodine
+| solid
+| covalent network
+| Found: 1811
+---------------

@@ -1,0 +1,5 @@
+ 4 5
+    111 Bagley Jess 90.5 96.7 89 96 84.2
+    187 Reynolds Ryder 85.3 88.1 82.3 92.8 79.1
+    242 Winslow Mckenzie 75.3 82.3 88.1 92.4 78.3
+    616 Traves Cory 67.2 70.3 45.3 90.1 77.2
